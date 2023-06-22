@@ -1,33 +1,25 @@
 ---
-title: 'DSRBLOG'
-description: 'DSRKafuU 个人博客。Web/跨平台开发、业余设计师、PC 硬件爱好者、动画党 & 主机单机游戏玩家。'
+title: '还没起名字'
+description: '个人博客。Golang 后端开发、业余前端、neovim 死忠粉、数码爱好者。'
 keywords:
-  - DSRKafuU
-  - DSRBLOG
+  - Golang
   - 博客
 ---
 
 **Personal**
 
-Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & console gamer.
+Golang backend developer, amateur frontend developer, loyal fan of neovim, digital enthusiast.
 
 **Keywords**
 
-- Tier 1 (Primary): JavaScript, TypeScript, HTML, CSS, React, Node.js
-- Tier 2 (Secondary): SolidJS, Svelte, Vue.js, Electron, Deno, Hugo
+- Tier 1 (Primary): Golang, K8S, AI
+- Tier 2 (Secondary): React, MUI
 
 **Stats**
 
-- Huge fan of Kyoto Animation since Lucky Star (2007)
-- Prefer VS Code, always working with 2-space (in any language)
-- Using Windows 11, macOS Ventura and Ubuntu 22.04
-- JSX/TSX are the best syntax for mordern web development
-
-**Hardware**
-
-- i9-13900KF, D5-7600C38, RTX4090, MBP16 M1P
-- LG 27GP95R UltraGear 4K Nano IPS
-- Varmilo VA87M Cherry MX Brown, Logitech G502X
+- Working on MLOps framework development in an AI compony since 2019
+- Use neovim to develop any language
+- Using Windows 11, macOS Ventura and Ubuntu 20.04
 
 **Counter**
 

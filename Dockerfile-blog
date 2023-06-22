@@ -1,0 +1,9 @@
+FROM node:18
+
+RUN npm install -g pnpm@7.33.1
+WORKDIR /blog
+COPY . .
+RUN pnpm i
+RUN wget https://github.com/gohugoio/hugo/releases/download/v0.114.0/hugo_extended_0.114.0_linux-amd64.tar.gz && tar -xzf hugo_extended_0.114.0_linux-amd64.tar.gz --one-top-level && cp hugo_extended_0.114.0_linux-amd64/hugo /usr/local/bin && rm -rf hugo_extended_0.114.0_linux-amd64/  hugo_extended_0.114.0_linux-amd64.tar.gz
+
+CMD pnpm run dev

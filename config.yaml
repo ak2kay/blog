@@ -1,6 +1,5 @@
 # base info
-baseURL: 'https://blog.dsrkafuu.net'
-
+baseURL: 'https://blog.enceinte.cc'
 # features
 hasCJKLanguage: true
 enableEmoji: true
@@ -15,7 +14,6 @@ frontmatter:
 disableKinds:
   - 'taxonomy'
   - 'term'
-
 # only preserve home rss
 outputs:
   page:
@@ -25,17 +23,14 @@ outputs:
     - RSS
   section:
     - HTML
-
 # params
 params:
   mainSections:
     - 'post'
     - 'code'
-
 # menu
 # https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
 sectionPagesMenu: 'main'
-
 # markup
 markup:
   goldmark:
@@ -47,11 +42,9 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 3
-
 # do not generate jsconfig
 build:
   noJSConfigInAssets: true
-
 # security settings
 security:
   enableInlineShortcodes: true

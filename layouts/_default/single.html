@@ -42,12 +42,28 @@
           {{ if ne .Params.comment false }}
           {{ $giscus := .Site.Data.comment }}
           <div class="card comment-area">
-            <script async crossorigin="anonymous" src="https://giscus.app/client.js" data-repo="{{ $giscus.repo }}"
-                    data-repo-id="{{ $giscus.repoID }}" data-category="{{ $giscus.catg }}"
-                    data-category-id="{{ $giscus.catgID }}" data-mapping="title" data-reactions-enabled="1"
-                    data-emit-metadata="0" data-input-position="bottom" data-theme="preferred_color_scheme"
-                    data-lang="zh-CN" data-loading="lazy">
-                    </script>
+            <!-- <script async crossorigin="anonymous" src="https://giscus.app/client.js" data-repo="{{ $giscus.repo }}" -->
+            <!--         data-repo-id="{{ $giscus.repoID }}" data-category="{{ $giscus.catg }}" -->
+            <!--         data-category-id="{{ $giscus.catgID }}" data-mapping="title" data-reactions-enabled="1" -->
+            <!--         data-emit-metadata="0" data-input-position="bottom" data-theme="preferred_color_scheme" -->
+            <!--         data-lang="zh-CN" data-loading="lazy"> -->
+            <!--         </script> -->
+            <script src="https://giscus.app/client.js"
+        data-repo="ak2kay/blog"
+        data-repo-id="R_kgDOJyxRCw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJyxRC84CXZVR"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
           </div>
           {{ end }}
         </div>
