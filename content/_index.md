@@ -12,7 +12,7 @@ Golang backend developer, amateur frontend developer, loyal fan of neovim, digit
 
 **Keywords**
 
-- Tier 1 (Primary): Golang, K8S, AI
+- Tier 1 (Primary): Golang, MLOps, K8S
 - Tier 2 (Secondary): React, MUI
 
 **Stats**
