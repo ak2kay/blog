@@ -1,10 +1,6 @@
-# dsr-blog
+# blog
 
-![](https://img.shields.io/github/last-commit/dsrkafuu/dsr-blog)
-![](https://img.shields.io/github/package-json/v/dsrkafuu/dsr-blog)
-[![](https://img.shields.io/github/license/dsrkafuu/dsr-blog)](https://github.com/dsrkafuu/dsr-blog/blob/main/LICENSE)
-
-新版整合式个人博客 [dsr-blog](https://blog.dsrkafuu.net)，基于 Hugo 实现，包含博客文章和笔记整合。非面向主题使用者的通用主题，如果有朋友感兴趣也欢迎发 issue、修改或自己使用。
+**credit for [dsr-blog](https://blog.dsrkafuu.net)**
 
 ## 浏览器支持
 
@@ -46,12 +42,10 @@ Supports major browser versions released at 2020 or `ES2020`.
 
 ### 评论区
 
-移除评论区，一劳永逸解决审查问题。
+giscus
 
 ## LICENSE
 
 This project and all contributors shall not be responsible for any dispute or loss caused by using this project.
 
-This project is released under the `GNU AGPLv3`, for more information read the [License](https://github.com/dsrkafuu/dsr-blog/blob/main/LICENSE).
-
-**Copyright © 2018-present DSRKafuU (<https://dsrkafuu.net>)**
+This project is released under the `GNU AGPLv3`.
