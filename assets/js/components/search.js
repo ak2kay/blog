@@ -1,7 +1,7 @@
 import { logInfo } from '../plugins/loggers';
 
 export const SEARCH_URL = 'https://www.google.com/search';
-export const SEARCH_SITE = 'blog.dsrkafuu.net/post';
+export const SEARCH_SITE = 'blog.enceinte.cc/post';
 
 /**
  * preform search
