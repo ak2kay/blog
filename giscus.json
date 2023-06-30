@@ -1,7 +1,8 @@
 {
   "defaultCommentOrder": "newest",
   "origins": [
-    "https://blog.enceinte.cc"
+    "https://blog.enceinte.cc",
+    "https://todebug.com"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
