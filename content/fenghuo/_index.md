@@ -1,25 +1,22 @@
 ---
+title: 烽火戏诸侯
+layout: single
 date: 2018-12-03 11:03:22
+weight: 4
 ---
-<hr>
+
 ## 雪中悍刀行
 
-{% cq %} 
 **有些话不说就是个心结，说开了心头就有个伤疤，两者未必有好坏之分。**
 
 **书上说，天下没有不散的宴席。不要怕，书上还说了，人生何处不相逢。**
 
 **人这一生，各有天命，有些人总能做愿意做的事情，很幸运。有些人总能做喜欢做的事情，很幸福。而有些人，只能做应该做的事情，甚至有些人，只能做别人觉得他应该做的事情。**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——  雪中悍刀行语录
-
-{% endcq %}
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ——  雪中悍刀行语录
 
 <hr>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=444706362&auto=0&height=66"></iframe>
-
-<hr>
 年轻游侠儿泪眼模糊，凄然一笑，站起身，拿木剑对准墙壁，狠狠折断。 
 
 此后江湖再无温华的消息，这名才出江湖便已名动天下的木剑游侠儿，一夜之间，以最决然的苍凉姿态，离开了江湖。 
@@ -48,7 +45,6 @@ date: 2018-12-03 11:03:22
 
 
 <hr>
-
 老人伸出手指，直刺双眼。 
 
 然后这位黄紫老真人颤颤巍巍抬起那鲜血淋漓的右手食指，在眉心划出一抹印痕。 
@@ -72,7 +68,6 @@ date: 2018-12-03 11:03:22
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; —— 赵希抟 徐龙象
 
 <hr>
-
 他带她游遍了天下南北。 
 
 她见他没有动静，皱了皱鼻子扭头，敲了敲他的脑袋，问道：“怎么，还傻乎乎等下辈子找我吗？你傻啊，不累吗？” 
@@ -113,7 +108,6 @@ date: 2018-12-03 11:03:22
 
 
 <hr>
-
 清凉山北凉王府内，有栋私宅小院，内堂阴暗，一位出嫁前被相士谶语与徐凤年“八字相符，天作之合”的年轻女子，悄悄点燃了一盏青灯。 
 
 这是她第二次点燃灯芯。 

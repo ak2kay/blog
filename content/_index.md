@@ -24,5 +24,5 @@ Golang backend developer, amateur frontend developer, loyal fan of neovim, digit
 **Counter**
 
 <a href="https://github.com/dsrkafuu/moe-counter-cf#readme" target="_blank" rel="noopener">
-  <img height="100" src="https://count.dsrkafuu.net/dsrkafuu:home" alt="Moe Counter CF" />
+  <img height="100" src="https://count.enceinte.cc/ak2kay:home" alt="Moe Counter CF" />
 </a>
