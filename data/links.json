@@ -3,5 +3,10 @@
     "name": "GitHub",
     "icon": "github",
     "href": "https://github.com/ak2kay"
+  },
+  {
+    "name": "Twitter",
+    "icon": "twitter",
+    "href": "https://twitter.com/ak2kay"
   }
 ]
