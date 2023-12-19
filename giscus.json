@@ -2,7 +2,9 @@
   "defaultCommentOrder": "newest",
   "origins": [
     "https://blog.enceinte.cc",
-    "https://todebug.com"
+    "https://todebug.com",
+    "https://isvk.top",
+    "https://isvk.xyz"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
