@@ -18,8 +18,7 @@ Golang backend developer, amateur frontend developer, loyal fan of neovim, digit
 **Stats**
 
 - Working on MLOps framework development in an AI compony since 2019
-- Use neovim to develop any language
-- Using macOS Sonoma and Ubuntu 20.04, Windows 11
+- Using neovim to develop any language
 
 **Counter**
 
